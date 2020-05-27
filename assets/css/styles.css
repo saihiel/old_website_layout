@@ -513,20 +513,20 @@ a.dotted-link:hover {
 .education .item .title {
   font-size: 16px;
   margin-top: 0;
-  padding-left: 25px;
+  
 }
 .education .item .title .year {
   color: #b0b7bf;
   font-weight: 500;
-  padding-left: 75px;
+  padding-left: 65px;
 }
 
 .education .item .university {
   font-family: "Lato", arial, sans-serif;
   font-size: 15px;
   color: #999;
-  font-weight: 400;
-  
+  font-weight: 500;
+  padding-left: 10px;
 }
 
 
