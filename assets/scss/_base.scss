@@ -452,11 +452,11 @@ a.dotted-link {
 	.university {
             font-family: "Lato", arial, sans-serif;
             font-size: 13px;
-            
+            color: #b6c5d4;
             font-weight: 600;
             padding-left: 25px;
             .year {
-                color: lighten($color, 20%);
+                color: lighten($color, 10%);
                 font-weight: 500;
             }
         }    
