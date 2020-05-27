@@ -452,7 +452,7 @@ a.dotted-link {
 	.university {
             font-family: "Lato", arial, sans-serif;
             font-size: 13px;
-            color: $grey;
+            
             font-weight: 600;
             padding-left: 25px;
             .year {
@@ -463,6 +463,7 @@ a.dotted-link {
         .title {
             font-size: 16px;
             margin-top: 0;
+	    color: $grey;
         }
         
     }
