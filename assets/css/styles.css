@@ -511,21 +511,23 @@ a.dotted-link:hover {
 }
 
 .education .item .title {
-  font-size: 16px;
+  font-size: 15px;
   margin-top: 0;
+  padding-left: 25px;
 }
 
 .education .item .university {
   font-family: "Lato", arial, sans-serif;
-  font-size: 13px;
+  font-size: 16px;
   color: #999;
   font-weight: 600;
-  padding-left: 25px;
+  
 }
 
 .education .item .university .year {
   color: #b0b7bf;
   font-weight: 500;
+  padding-left: 75px;
 }
 
 /* Language Section */
