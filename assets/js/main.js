@@ -26,7 +26,7 @@ jQuery(document).ready(function($) {
     $('.level-label').tooltip();
     
     
-    /* jQuery RSS - https://github.com/sdepold/jquery-rss */
+    /* jQuery RSS - https://github.com/sdepold/jquery-rss 
     
     $("#rss-feeds").rss(
     
@@ -61,7 +61,7 @@ jQuery(document).ready(function($) {
         
         }
     );
-    
+    */
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
     new GitHubCalendar("#github-graph", "IonicaBizau");
     
