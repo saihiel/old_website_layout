@@ -454,16 +454,15 @@ a.dotted-link {
             font-size: 13px;
             color: #b6c5d4;
             font-weight: 600;
-            padding-left: 25px;
-            .year {
-                color: lighten($color, 10%);
-                font-weight: 500;
-            }
         }    
         .title {
             font-size: 16px;
             margin-top: 0;
 	    color: $grey;
+		.year {
+		color: lighten($color, 10%);
+		font-weight: 500;
+	    }
         }
         
     }
